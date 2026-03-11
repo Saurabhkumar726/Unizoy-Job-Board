@@ -11,7 +11,7 @@ LIVE DEPLOYMENT
 ------------------------------------------------------------
 
 Frontend (Netlify):
-https://unizoy-job-board.netlify.app/applications
+https://unizoy-job-board.netlify.app/
 
 Backend API (Render):
 https://unizoy-job-board-jaw9.onrender.com/
